@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(107, 107, 107);
+    color: white;
+    margin-left: 3mm;
+    margin-right: 3mm;
+
+}
+
+/*
+Comentarios CSS
+
+
+*/
+#b2{
+    border:none;
+    background-color: rgb(161, 245, 241);
+}
+
+#c3{
+    color: black;
+}
+
+
+#neo,
+#neo1 {
+    text-align: center;
+}
+
+#navbar {
+    border-radius: 25px;
+    justify-content: center;
+}
+
+#blanco {
+    color: white;
+}
+
+#quienessomos {
+    justify-content: center;
+
+}
+
+#imagenes1 {
+    border-radius: 25px;
+}
+
+#a2 {
+    color: black;
+    border-radius: 10px;
+    margin-left: 3mm;
+}
+
+#part2 {
+    margin-left: 5px;
+}
+
+#enviar{
+    border: none;
+    border-radius: 25%;
+    width: 50px;
+    background-color: rgb(80, 210, 228);
+}
+
+#correo{
+    border: none;
+    border-radius: 10%;
+    width: 50px;
+    background-color: rgb(80, 210, 228);
+}
+
+#message{
+    position:(200px, 500px)
+}
+
+#contactame{
+    color: #000000;
+    background-color: white;
+    display: inline-block;
+    font-size: 70px;
+}
